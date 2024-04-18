@@ -1,7 +1,9 @@
 body {
-    margin: 10%;
     background-color: #ECE2D0;
     color: #7FD1B9;
+    padding: 100px;
+    text-align: center;
+    font-size: 30px;
 }
 
 h1 {
